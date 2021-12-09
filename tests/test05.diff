@@ -1,0 +1,16 @@
+1,3c1
+< tests
+< proj2.c
+< guidelines.md
+---
+> Makefile
+4a3,5
+> guidelines.md
+> proj2.c
+> tests
+6d6
+< test02.in
+8c8
+< Makefile
+---
+> test02.in
